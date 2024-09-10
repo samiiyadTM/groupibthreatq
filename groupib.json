@@ -1,0 +1,92 @@
+[
+ {
+  "code": "money_mule",
+  "name": "Money Mule",
+  "name_plural": "Money Mules",
+  "description": "Money Mule",
+  "fg_color": "#ffffff",
+  "fields": [
+    {
+      "field": "value",
+      "name": "Name",
+      "required": "Yes"
+    },
+    {
+      "field": "description",
+      "name": "Description"
+    }
+  ]
+ },
+ {
+    "code": "imei",
+    "name": "IMEI",
+    "name_plural": "IMEI",
+    "description": "IMEI",
+    "fg_color": "#ffffff",
+    "fields": [
+      {
+        "field": "value",
+        "name": "Name",
+        "required": "Yes"
+      },
+      {
+        "field": "description",
+        "name": "Description"
+      }
+    ]
+  },
+  {
+    "code": "organization",
+    "name": "Organization",
+    "name_plural": "Organizations",
+    "description": "Bank Organization",
+    "fg_color": "#ffffff",
+    "fields": [
+      {
+        "field": "value",
+        "name": "Name",
+        "required": "Yes"
+      },
+      {
+        "field": "description",
+        "name": "Description"
+      }
+    ]
+  },
+  {
+  "code": "account",
+  "name": "Compromised Account",
+  "name_plural": "Compromised Accounts",
+  "description": "Compromised Account",
+  "fg_color": "#ffffff",
+  "fields": [
+    {
+      "field": "value",
+      "name": "Name",
+      "required": "Yes"
+    },
+    {
+      "field": "description",
+      "name": "Description"
+    }
+  ]
+ },
+  {
+  "code": "card",
+  "name": "Compromised Card",
+  "name_plural": "Compromised Cards",
+  "description": "Compromised Card",
+  "fg_color": "#ffffff",
+  "fields": [
+    {
+      "field": "value",
+      "name": "Name",
+      "required": "Yes"
+    },
+    {
+      "field": "description",
+      "name": "Description"
+    }
+  ]
+ }
+]
